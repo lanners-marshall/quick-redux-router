@@ -1,5 +1,4 @@
 import React from 'react';
-
 import {getJoke} from '../store/actions/jokeActions.js'
 import { connect } from "react-redux";
 
